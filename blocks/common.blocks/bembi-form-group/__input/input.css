@@ -1,0 +1,13 @@
+.bembi-form-group__input{
+    outline: none;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #ccc;
+    box-sizing: border-box;
+    padding: 5px 10px;
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+    border-radius: 5px;
+    width: 100%;
+    color: #2f2f2f;
+}
